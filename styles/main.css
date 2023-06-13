@@ -55,6 +55,9 @@ details summary {
 img.next-image {
   margin: 0;
 }
+img.profile-image {
+  border-radius: 100px;
+}
 
 .prose a {
   color: #0074de;
